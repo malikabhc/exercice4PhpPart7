@@ -2,7 +2,7 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8" />
-    <title>Exercice2/7 Index</title>
+    <title>Exercice4/7 Index</title>
   </head>
   <body>
     <form action="user.php" method="post">
